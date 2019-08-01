@@ -14,5 +14,5 @@ I've procured these from other locations.  If you'd like to make changes to any 
 
 ## Todo
 
-[ ] Add VS Studio light theme
-[ ] Add images of existing themes
+- [ ] Add VS Studio light theme
+- [ ] Add images of existing themes
